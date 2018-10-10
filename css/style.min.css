@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'thaisanslite';
+	src: url('../font/thaisanslite/thaisanslite.eot');
+	src: local('☺'), url('../font/thaisanslite/thaisanslite.woff') format('woff'), url('../font/thaisanslite/thaisanslite.ttf') format('truetype'), url('../font/thaisanslite/thaisanslite.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'supermarket';
+	src: url('../font/supermarket/supermarket.eot?#iefix') format('embedded-opentype'),  url('../font/supermarket/supermarket.woff') format('woff'), url('../font/supermarket/supermarket.ttf')  format('truetype'), url('../font/supermarket/supermarket.svg#supermarket') format('svg');
+	font-weight: normal;
+	font-style: normal;
+  }
+  
+*{font-family: 'thaisanslite'}.view,body,html{height:100%}.navbar{background-color:rgba(255,231,45,1)}.page-footer,.top-nav-collapse{background-color:#ffe72d}@media only screen and (max-width:768px){.navbar{background-color:#ffe72d}}
